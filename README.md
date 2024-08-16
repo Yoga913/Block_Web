@@ -27,13 +27,13 @@ Ini menghasilkan skrip batch (`script.bat`) untuk menjalankan perintah sistem un
 git clone https://github.com/Yoga913/Block_Web.git
 ```
 **Masuk Direktory:**
-'''
+```
 cd Block_Web
-'''
+```
 **Jalankan Skrpt:**
-'''
+```
 py Block_Web.py
-'''
+```
 
 # Catatan
 
